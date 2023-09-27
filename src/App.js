@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import TheNav from "./TheNav";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Headbooks from "./Headbooks";
+import Sign from "./Sign";
+import Subscribetext from "./Subscribetext";
+import Genre from "./Genre";
+import Secondh from "./Secondh";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div className="App">
+			<TheNav />
+			<Headbooks />
+			<Secondh />
+			<Genre />
+			<Subscribetext />
+			<Sign />
+		</div>
+	);
 }
 
 export default App;
