@@ -1,5 +1,5 @@
 
-This application i built is a fictional landing page ui bookstore app. The images used in this project are from pixabay.com. I also used react bootstrap to set up the carousels and navagation bar. -Don Miller
+This application i built is a fictional landing page ui bookstore app. The images used in this project are from pixabay.com. I also used react bootstrap to set up the carousels and navagation bar. I built this Ui based on a mobile device(dimenson responsive 392x851), not a desktop. -Don Miller
 
 # Getting Started with Create React App
 
