@@ -1,3 +1,6 @@
+
+This application i built is a fictional landing page ui bookstore app. The images used in this project are from pixabay.com. I also used react bootstrap to set up the carousels and navagation bar. -Don Miller
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
